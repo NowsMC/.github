@@ -26,7 +26,7 @@ Nothing about how Nows Loader works changes with this announcement. What changes
 | `loader.nows.space` | Nows Loader |
 | `tube.nows.space` | Tube |
 
-The Nows Loader site is moving from `nows.space` to `nowsloader.nows.space`. Update any bookmarks or links you have.
+The Nows Loader site is moving from `nows.space` to `loader.nows.space`. Update any bookmarks or links you have.
 
 ## Links
 
