@@ -15,7 +15,7 @@ Nothing about how Nows Loader works changes with this announcement. What changes
 
 ## Projects
 
-* [**Nows Loader**](https://nowsloader.nows.space/) - an experimental Minecraft Java mod loader. It provides a wrapper layer between mods and Minecraft, with version-specific adapters handling differences between Minecraft versions. It does not hide the Minecraft API, so mods can still use Minecraft classes, mixins, and version-specific code directly when needed.
+* [**Nows Loader**](https://loader.nows.space/) - an experimental Minecraft Java mod loader. It provides a wrapper layer between mods and Minecraft, with version-specific adapters handling differences between Minecraft versions. It does not hide the Minecraft API, so mods can still use Minecraft classes, mixins, and version-specific code directly when needed.
 * [**Tube**](https://tube.nows.space/) - our Minecraft server launcher.
 
 ## Domains
@@ -23,7 +23,7 @@ Nothing about how Nows Loader works changes with this announcement. What changes
 | Domain | Purpose |
 | --- | --- |
 | `nows.space` | Nows MC, the team |
-| `nowsloader.nows.space` | Nows Loader |
+| `loader.nows.space` | Nows Loader |
 | `tube.nows.space` | Tube |
 
 The Nows Loader site is moving from `nows.space` to `nowsloader.nows.space`. Update any bookmarks or links you have.
